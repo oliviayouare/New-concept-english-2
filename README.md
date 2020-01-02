@@ -64,6 +64,7 @@ She walked very slowly（方式副词） across the stage（地点副词）.
 
 ###### Language points
 1. Last week I ***went to the theatre***. 上星期我去看戏。
+
 动词go的原义是离开一个地方去另一个地方，与介词to连用后，常加上主语所要去的目的地来代表主语的动作目的。
 go to the +地点　表示去某地干嘛
 
@@ -118,25 +119,25 @@ pay attention **to** : 对什么注意
 
 You must pay attention to that gril.
 
-pay *a little* attention :稍加注意
-pay *much* attention :多加注意
-pay *more* attention :更多注意
-pay *no* attention　 :不用注意
+pay *a little* attention :稍加注意<br>
+pay *much* attention :多加注意<br>
+pay *more* attention :更多注意<br>
+pay *no* attention　 :不用注意<br>
 
 8．***In the end***, 1 could not ***bear*** it.
-In the end 最后，终于。表示一段较长的时间之后或某种努力之后：
-She tried hard to finish her homework by herself. In the end, she had to ask her brother for help.
+In the end 最后，终于。表示一段较长的时间之后或某种努力之后：<br>
+She tried hard to finish her homework by herself. In the end, she had to ask her brother for help.<br>
 她试图自已完成家庭作业，但最后她不得不请她兄弟帮忙。
 
-bear vt. 忍受（一般与can/could连用于疑问句及否定句中）：
+bear vt. 忍受（一般与can/could连用于疑问句及否定句中）：<br>
 She eats too fast. I can't bear to watch/watching her.
-她吃得太快。我看着受不了。
+
 How can you bear living in this place?
-你怎么能受得了住在这个地方？
+
 
 9. ***none of your business***, 不关你的事。
 Business　n. 事 do Business: 做生意
-sb. 's business指某人（所关心的或份内）的事：
+sb. 's business指某人（所关心的或份内）的事<br>
 It is my business to look after your health.
 我必须照顾你的身体健康。
 This is none of his business.
