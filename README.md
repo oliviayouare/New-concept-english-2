@@ -33,16 +33,10 @@ I turned round again. ‘I can't hear a word!’ I said angrily.
 
 - [ ] Step 1 Listen to the radio and answer the question.
 
-void main()
-    {
-        printf(<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
-sid=565739609&type=2&auto=0&width=320&height=66"
-type="application/x-shockwave-flash"></object>);
-    }
     
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
-sid=565739609&type=2&auto=0&width=320&height=66"
-type="application/x-shockwave-flash"></object>
+    <object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
+    sid=565739609&type=2&auto=0&width=320&height=66"
+    type="application/x-shockwave-flash"></object>
 
 ###### 1. Last week I ***went to the theatre***. 上星期我去看戏。
 动词go的原义是离开一个地方去另一个地方，与介词to连用后，常加上主语所要去的目的地来代表主语的动作目的。go to the +地点　表示去某地干嘛
