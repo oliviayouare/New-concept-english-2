@@ -1,6 +1,6 @@
 （http://www.hxen.com/englishlistening/xingainian/meiyin2/2012-08-28/194054.html）
 
-## -[ ] Lesson 1 A private conversation
+## Lesson 1 A private conversation
 
 Last week I went to the theatre. 
 
@@ -31,7 +31,7 @@ I turned round again. ‘I can't hear a word!’ I said angrily.
 ‘It's none of your business, ’ the young man said rudely. ‘This is a private conversation!’
 
 
-###### 1．Last week I ***went to the theatre***.上星期我去看戏。
+> 1.  Last week I ***went to the theatre***.上星期我去看戏。
 动词go的原义是离开一个地方去另一个地方，与介词to连用后，常加上主语所要去的目的地来代表主语的动作目的。go to the +地点　表示去某地干嘛
 theatre　 n.剧场，戏剧
 cinema:　电影院
