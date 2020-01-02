@@ -33,7 +33,7 @@ I turned round again. ‘I can't hear a word!’ I said angrily.
 
 - [ ] Step 1 Listen to the radio and answer the question.
 
-\[课文1\]\(https://music.163.com/#/song?id=565739609\)
+[课文1\](https://music.163.com/#/song?id=565739609\)
 
 ###### 1. Last week I ***went to the theatre***. 上星期我去看戏。
 动词go的原义是离开一个地方去另一个地方，与介词to连用后，常加上主语所要去的目的地来代表主语的动作目的。go to the +地点　表示去某地干嘛
