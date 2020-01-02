@@ -41,26 +41,6 @@ I turned round again. ‘I can't hear a word!’ I said angrily.
 ****
 - [ ] **Step 4**  Let's see if you are right. This time we'll listen very carefully to the tape and try to analyze every sentence of the story. 
 
-######  Grammar in use 语法
-简单陈述句的语序(Word order in simple statements2) *主语+谓语+宾语+状语*
-**主语**一般为名词、代词或名词短语，通常位于**动词**之前。
-**动词**必须与**主语**“一致”，所以主语决定动词的单复数形式（如I am, you are, he has）。
-**宾语**一般为名词、代词或名词短语。在主动句中，**宾语一般位于动词之后**。
-
-一个句子不总需要有宾语。The man ran away quickly.
-那人很快跑掉了。（无宾语）
-
-**状语**的位置比较灵活。
-
-*时间状语可以在句尾，也可以在句首*[1] 
-**Last night** Lucy went to the theatre.
-昨晚露西去剧院看戏了。
-I heard a voice at the door **just now**.
-我刚才听到门口有声音。
-
-*当一个句子里有一种以上的副词时，地点副词的一般位置是在方式副词之后、时间副词之前*[2]
-She walked very slowly（方式副词） across the stage（地点副词）.  
-
 
 ###### Language points
 1. Last week I ***went to the theatre***. 上星期我去看戏。
@@ -151,6 +131,28 @@ let's have a talk
 They are having a conversation.
 
 private（私人的，个人的）名词形式privacy1有“隐私（权）”的意思。
+
+######  Grammar in use 语法
+简单陈述句的语序(Word order in simple statements2) *主语+谓语+宾语+状语*
+**主语**一般为名词、代词或名词短语，通常位于**动词**之前。
+**动词**必须与**主语**“一致”，所以主语决定动词的单复数形式（如I am, you are, he has）。
+**宾语**一般为名词、代词或名词短语。在主动句中，**宾语一般位于动词之后**。
+
+一个句子不总需要有宾语。The man ran away quickly.
+那人很快跑掉了。（无宾语）
+
+**状语**的位置比较灵活。
+
+*时间状语可以在句尾，也可以在句首*[1] 
+**Last night** Lucy went to the theatre.
+昨晚露西去剧院看戏了。
+I heard a voice at the door **just now**.
+我刚才听到门口有声音。
+
+*当一个句子里有一种以上的副词时，地点副词的一般位置是在方式副词之后、时间副词之前*[2]
+She walked very slowly（方式副词） across the stage（地点副词）.  
+
+
 
 ****
 
