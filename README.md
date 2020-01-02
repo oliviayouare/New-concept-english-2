@@ -33,6 +33,13 @@ I turned round again. ‘I can't hear a word!’ I said angrily.
 
 - [ ] Step 1 Listen to the radio and answer the question.
 
+void main()
+    {
+        printf(<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
+sid=565739609&type=2&auto=0&width=320&height=66"
+type="application/x-shockwave-flash"></object>);
+    }
+    
 <object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
 sid=565739609&type=2&auto=0&width=320&height=66"
 type="application/x-shockwave-flash"></object>
